@@ -45,5 +45,5 @@ DEPRESSION_PROJECT/
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mauricio-lobo-ds/depression-analysis.git
+   git clone https://github.com/mauricio-lobo-ds/depression_project.git
    cd depression-analysis
